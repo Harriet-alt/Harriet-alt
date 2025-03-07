@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #a14d4d;
+    color: #333;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: #530909;
+    color: #fff;
+}
+
+.intro {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+}
+
+
+.why-ce, .skills, .interests {
+    padding: 20px;
+}
+
